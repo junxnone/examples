@@ -7,6 +7,6 @@ y = tf.Variable(a+b*2,name='y')
 init=tf.global_variables_initializer()
 with tf.Session() as sess:
         merged = tf.summary.merge_all()
-        writer = tf.summary.FileWriter('./log/1',sess.graph)    
+        writer = tf.summary.FileWriter('./log/a_plus_b',sess.graph)    
         sess.run(init)
         print(sess.run(y))
