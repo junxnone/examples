@@ -1,3 +1,6 @@
+#Index
+- [a plus b](#a-plus-b)
+- [Mnist](#mnist)
 # a plus b
 ```
         merged = tf.summary.merge_all()
