@@ -1,3 +1,4 @@
 tensorboard/log/
 tensorboard/dataset/
 Python/tmp
+*/.ipynb_checkpoints/
