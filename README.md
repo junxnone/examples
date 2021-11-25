@@ -1,4 +1,5 @@
 # Jupyter Notebook Index
+- [web](https://junxnone.github.io/examples)
 
 ## BayesianOptimization
 - [BayesianOptimization_visualization.ipynb](https://junxnone.github.io/examples/nbv.html?notebook_name=BayesianOptimization/BayesianOptimization_visualization.ipynb)
@@ -113,6 +114,9 @@
 ## segmentation_models
 - [binary_segmentation_camvid.ipynb](https://junxnone.github.io/examples/nbv.html?notebook_name=segmentation_models/binary_segmentation_camvid.ipynb)
 - [multiclass_segmentation_camvid.ipynb](https://junxnone.github.io/examples/nbv.html?notebook_name=segmentation_models/multiclass_segmentation_camvid.ipynb)
+
+## sigopt
+- [mnist.ipynb](https://junxnone.github.io/examples/nbv.html?notebook_name=sigopt/mnist.ipynb)
 
 ## tensorboard
 - [tensorboard_ngrok.ipynb](https://junxnone.github.io/examples/nbv.html?notebook_name=tensorboard/tensorboard_ngrok.ipynb)
