@@ -1,28 +1,5 @@
 # Jupyter Notebook Index
-- [nlp](#nlp)
-- [imageio](#imageio)
-- [scikit-learn](#scikit-learn)
-- [pytorch](#pytorch)
-- [BayesianOptimization](#BayesianOptimization)
-- [einops](#einops)
-- [tensorboard](#tensorboard)
-- [pandas](#pandas)
-- [imgaug](#imgaug)
-- [DataVisualization](#DataVisualization)
-- [scikit-image](#scikit-image)
-- [seaborn](#seaborn)
-- [opencv](#opencv)
-- [matplotlib](#matplotlib)
-- [tensorflow](#tensorflow)
-- [algo](#algo)
-- [dataset](#dataset)
-- [keras](#keras)
-- [numpy](#numpy)
-- [sigopt](#sigopt)
-- [openvino](#openvino)
-- [segmentation_models](#segmentation_models)
-- [nn](#nn)
-- [python](#python)
+
 
 
 ## BayesianOptimization
