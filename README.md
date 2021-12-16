@@ -1,5 +1,5 @@
 # Jupyter Notebook Index
-- [web](https://junxnone.github.io/examples)
+
 
 ## BayesianOptimization
 - [BayesianOptimization_visualization.ipynb](https://junxnone.github.io/examples/nbv.html?notebook_name=BayesianOptimization/BayesianOptimization_visualization.ipynb)
