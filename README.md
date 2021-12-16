@@ -1,5 +1,33 @@
 # Jupyter Notebook Index
+- [nlp](#nlp)
+- [imageio](#imageio)
+- [scikit-learn](#scikit-learn)
+- [pytorch](#pytorch)
+- [BayesianOptimization](#BayesianOptimization)
+- [einops](#einops)
+- [tensorboard](#tensorboard)
+- [pandas](#pandas)
+- [imgaug](#imgaug)
+- [DataVisualization](#DataVisualization)
+- [scikit-image](#scikit-image)
+- [seaborn](#seaborn)
+- [opencv](#opencv)
+- [matplotlib](#matplotlib)
+- [tensorflow](#tensorflow)
+- [algo](#algo)
+- [dataset](#dataset)
+- [keras](#keras)
+- [numpy](#numpy)
+- [sigopt](#sigopt)
+- [openvino](#openvino)
+- [segmentation_models](#segmentation_models)
+- [nn](#nn)
+- [python](#python)
 
+
+## BayesianOptimization
+- [BayesianOptimization_visualization.ipynb](https://junxnone.github.io/examples/nbv.html?notebook_name=BayesianOptimization/BayesianOptimization_visualization.ipynb)
+- [BayesianOptimization_visualization_af_ucb_ei_poi.ipynb](https://junxnone.github.io/examples/nbv.html?notebook_name=BayesianOptimization/BayesianOptimization_visualization_af_ucb_ei_poi.ipynb)
 
 ## DataVisualization
 - [Facets.ipynb](https://junxnone.github.io/examples/nbv.html?notebook_name=DataVisualization/Facets.ipynb)
