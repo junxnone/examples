@@ -1,28 +1,29 @@
 # Jupyter Notebook Index
-- [tensorflow](#tensorflow)
-- [imageio](#imageio)
-- [keras](#keras)
-- [scikit-image](#scikit-image)
-- [sigopt](#sigopt)
-- [pytorch](#pytorch)
-- [opencv](#opencv)
-- [openvino](#openvino)
-- [scikit-learn](#scikit-learn)
-- [numpy](#numpy)
-- [algo](#algo)
-- [nn](#nn)
-- [python](#python)
 - [BayesianOptimization](#bayesianoptimization)
-- [imgaug](#imgaug)
-- [einops](#einops)
-- [nlp](#nlp)
-- [dataset](#dataset)
-- [DataVisualization](#datavisualization)
+- [keras](#keras)
+- [pytorch](#pytorch)
 - [seaborn](#seaborn)
-- [segmentation_models](#segmentation_models)
-- [pandas](#pandas)
-- [matplotlib](#matplotlib)
+- [imageio](#imageio)
+- [tensorflow](#tensorflow)
+- [einops](#einops)
+- [nn](#nn)
+- [DataVisualization](#datavisualization)
+- [openvino](#openvino)
+- [sigopt](#sigopt)
+- [fun](#fun)
+- [nlp](#nlp)
+- [scikit-image](#scikit-image)
 - [tensorboard](#tensorboard)
+- [algo](#algo)
+- [imgaug](#imgaug)
+- [numpy](#numpy)
+- [python](#python)
+- [pandas](#pandas)
+- [dataset](#dataset)
+- [scikit-learn](#scikit-learn)
+- [segmentation_models](#segmentation_models)
+- [opencv](#opencv)
+- [matplotlib](#matplotlib)
 
 
 ## BayesianOptimization
@@ -42,6 +43,9 @@
 
 ## einops
 - [einops_usecase.ipynb](https://junxnone.github.io/examples/nbv.html?notebook_name=einops/einops_usecase.ipynb)
+
+## fun
+- [6174_analysis.ipynb](https://junxnone.github.io/examples/nbv.html?notebook_name=fun/6174_analysis.ipynb)
 
 ## imageio
 - [imageio_basic.ipynb](https://junxnone.github.io/examples/nbv.html?notebook_name=imageio/imageio_basic.ipynb)
